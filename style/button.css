@@ -1,0 +1,13 @@
+/* Reset a tag style */
+.btn {
+    background: none;
+    text-decoration: none;
+    color: white;
+
+    background: rgb(30, 30, 30);
+
+    padding: 0.5em;
+    margin: 0.5em;
+
+    border-radius: 0.3em;
+}
